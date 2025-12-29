@@ -1,3 +1,5 @@
+This is an outdated version of the adax integration. Please do not follow these instructions on a newer (2025) version of home assistant.
+
 # Adax heaters
 ![Validate with hassfest](https://github.com/Danielhiversen/home_assistant_adax/workflows/Validate%20with%20hassfest/badge.svg)
 [![GitHub Release][releases-shield]][releases]
